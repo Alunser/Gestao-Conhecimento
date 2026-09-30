@@ -1,0 +1,8 @@
+# Ignora o ambiente virtual
+.env
+.venv/
+venv/
+
+# Ignora arquivos gerados de sistema
+__pycache__/
+.DS_Store

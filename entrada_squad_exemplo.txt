@@ -1,0 +1,5 @@
+
+            [Feature: Pix Antecipado de Consórcio]
+            - Regra de Negócio: O cliente pode antecipar parcelas do consórcio utilizando Pix.
+            - Impacto: Concede desconto de 5% sobre os juros vincendos do saldo devedor.
+            
